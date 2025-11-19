@@ -1,2 +1,2 @@
 # story-build
-Collaborative story
+Collaborative story as a prohject
